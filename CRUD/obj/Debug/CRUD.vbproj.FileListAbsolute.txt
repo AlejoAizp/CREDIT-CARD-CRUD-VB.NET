@@ -1,0 +1,14 @@
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\obj\Debug\CRUD.vbproj.AssemblyReference.cache
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\obj\Debug\CRUD.vbproj.SuggestedBindingRedirects.cache
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\bin\Debug\CRUD.xml
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\obj\Debug\CRUD.xml
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\code_\Desktop\VISUAL BASIC .NET\CRUD\CRUD\CRUD\obj\Debug\CRUD.PresentationForm.resources
